@@ -1,0 +1,170 @@
+body{
+  background: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+/*html, body *{
+    border: 1px solid red;
+
+}
+*/
+li {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  margin: 0 1%;
+}
+
+li a{
+  text-decoration: none;
+  color: white;
+
+
+}
+
+.oscuro{
+  background-color: #000000;
+  padding: 20px
+}
+
+
+.hero-section{
+ text-align: right;
+ background-image: url(../img/bg-hero.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: #ffffff;
+ text-shadow: 2px 3px 2px #707070;
+ padding: 50px 50px 250px 10px;;
+}
+.subtitulo{
+  color: white;
+  text-align: right;
+  font-family: 'Open Sans', sans-serif;
+  font: Regular 40px/55px Open Sans;;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: #FFFFFF;
+text-shadow: 0px 3px 6px #00000080;
+opacity: 1;
+}
+
+.mover{
+  text-align: left;
+}
+body{
+  text-align: center;
+  color:#000f08
+}
+body nav{
+  text-align: left;
+}
+/ .big{
+  font-size: 40px;
+  font-style: oblique;
+  color: green;
+}
+
+#super-big{
+  font-size: 100px;
+  color: blue;
+  color: red;
+}
+
+.hero-section h1{
+  font-size: 3em;
+}
+
+.sweet-hero{
+
+}
+.container{
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 10%;
+
+}
+.imagen-pequeña{
+  width: 30%
+
+
+}
+
+
+.mover{
+  display:inline-block;
+  width: 30%;
+  text-align:left;
+}
+.foto{
+  width: 20%;
+
+}
+
+#proxima-charla{
+  padding:20px;
+  background-color: #A4452C;
+  color: #ffffff;
+}
+
+.evento {
+  width: 30%;
+}
+
+.evento img {
+  width: 75%;
+}
+
+#eventos h2 {
+  margin-bottom: 1em;
+}
+
+#eventos h3 {
+  margin: 1em auto;
+}
+.evento{
+  display:inline-block;
+}
+
+footer{
+  background: black;
+  padding: 40px
+}
+
+.color-letra{
+  color: #707070;
+}
+
+#contacto{
+  color: white;
+}
+.titulo2{
+  text-align: left;
+  margin-left: 15%;
+  margin-right:15%;
+  padding-bottom: 3%;
+}
+.imagen-evento01{
+  width: 70%;
+
+}
+
+.parrafo2{
+  text-align: justify;
+  margin-left: 15%;
+  margin-right:15%;
+  letter-spacing: 0.5px;
+  color: #000F08;
+  opacity: 1;
+  line-height: 28px;
+}
+.titulo-parrafo{
+  font-family: 'Open Sans', sans-serif;
+  width: 800;
+  text-align: left;
+}
+/* .chiqui{ */
+  font-family: 'Open Sans', sans-serif;
+
+}
